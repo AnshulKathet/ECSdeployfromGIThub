@@ -10,7 +10,7 @@ Parameters:
     Default: AnshulKathet
   GithubRepo:
     Type: String
-    Default: ECSdeployfromGIThub
+    Default: spring3hibernate
   GithubBranch:
     Type: String
     Default: master
