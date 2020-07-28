@@ -10,13 +10,13 @@ Parameters:
     Default: AnshulKathet
   GithubRepo:
     Type: String
-    Default: Fargate-ECSCluster-Cloudformation
+    Default: ECSdeployfromGIThub
   GithubBranch:
     Type: String
-    Default: Master
+    Default: master
   GithubOAuthToken:
     Type: String
-    Default: e9df38d5875a3e502d2ef7eb36d6ff68c578601e
+    Default: 2689c88d4b5c023362836b3f40c095449f4c4c19
   ContainerPort:
     Type: Number
     Default: 8080
