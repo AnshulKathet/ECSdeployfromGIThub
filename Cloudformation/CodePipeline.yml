@@ -16,7 +16,7 @@ Parameters:
     Default: master
   GithubOAuthToken:
     Type: String
-    Default: 2689c88d4b5c023362836b3f40c095449f4c4c19
+    Default: <TOKEN>
   ContainerPort:
     Type: Number
     Default: 8080
